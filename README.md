@@ -6,7 +6,7 @@
   <a href="https://www.instagram.com/your_instagram_handle"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
-<img src="URL_TO_YOUR_PROFILE_IMAGE" align="right" width="25%"/>
+<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
 I'm a passionate software developer with a focus on creating impactful technology solutions. With a strong foundation in both frontend and backend development, I specialize in Spring Boot and Angular for building dynamic, scalable applications. Additionally, my expertise extends to ServiceNow, where I develop integrative solutions for business operations. Holding a Master's degree in Business Intelligence, I approach every project with a blend of technical skill and strategic insight.
 
