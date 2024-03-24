@@ -1,18 +1,22 @@
+# Hello, I'm Rachid Bnekiou!
 
-<h1 align="center">Hi, I'm Rachid BENKITOU 👋</h1>
-<p align="center">
-    <a href="https://twitter.com/mohamed_abusrea"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/mohamedabusrea"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.youtube.com/c/mohamedabusrea"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
-    <a href="https://www.instagram.com/mohamed_abusrea"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
-  </p>
-  
-  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+I'm a software developer with a passion for building scalable web applications and working on cutting-edge technologies. I specialize in developing with Spring Boot and Angular and have professional experience as a ServiceNow developer. With a Master's degree in Business Intelligence, I bring a unique blend of technical skills and business acumen to every project.
 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
+## 🛠 Technologies & Tools
+- **Backend Development:** Spring Boot
+- **Frontend Development:** Angular
+- **Platform:** ServiceNow
+- **Databases:** (You can list the databases you're familiar with)
+- **Other Tools:** (Include any other tools or technologies you're proficient with)
 
-- 🔭 I'm a software developer [@Deliveryhero](https://www.deliveryhero.com/) in Berlin, Germany
-- 🔍 I have 2 live apps: 
-  - [Quran-tab (chrome extension)](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd)
-  - Wazaker App ([Android version](https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE), [iOS version](https://apps.apple.com/app/apple-store/id1453500014))
-- 💬 Ask me about **ReactJs and Frontend**
+## 📚 Education
+- **Master's Degree in Business Intelligence** - (Your University Name), (Graduation Year)
+
+## 🚀 Projects
+(Here, you can list down some of the projects you've worked on, providing a brief description and a link to the repository if available)
+
+## 📫 How to Reach Me
+- **Email:** (Your Email)
+- **LinkedIn:** [Your LinkedIn](Your LinkedIn URL)
+
+Feel free to reach out for collaborations or just a chat about technology and software development!
