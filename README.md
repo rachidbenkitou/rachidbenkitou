@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rachid BENKITOU 👋</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/rachidbenkitou/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@rachidbenkitou" target="_blank"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rachidbenkitou/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href="https://www.youtube.com/@rachidbenkitou" target="_blank"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white" target="_blank"/></a>
 </p>
 
 <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
